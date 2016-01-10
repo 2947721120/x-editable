@@ -51,13 +51,13 @@ jQuery only build:
 
 
 ##报告问题
-Please **provide jsFiddle** when creating issues!   
+创建问题时， 请提供的：**jsfiddle！** 它真的可以节省很多时间。使用这些作为模板
 It's really saves much time. Use these as template:   
 1. [jsFiddle Bootstrap 3](http://jsfiddle.net/xBB5x/2265/)  
 2. [jsFiddle Bootstrap 2](http://jsfiddle.net/xBB5x/1817/)  
 3. [jsFiddle jQuery-ui](http://jsfiddle.net/xBB5x/2511/)  
 4. [jsFiddle jQuery](http://jsfiddle.net/xBB5x/197)    
-Your feedback is very appreciated!
+您的反馈意见是非常赞赏！
 
 ## 贡献
 几个步骤如何开始贡献。
